@@ -13,6 +13,7 @@ import (
 3# r -> metade
 
 https://www.beecrowd.com.br/judge/pt/problems/view/1024
+https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
 
 */
 
