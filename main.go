@@ -12,6 +12,8 @@ import (
 3# rw{hW -> 8
 3# r -> metade
 
+https://www.beecrowd.com.br/judge/pt/problems/view/1024
+
 */
 
 func finalStep(data string) string {
